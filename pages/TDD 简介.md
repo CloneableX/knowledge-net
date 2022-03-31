@@ -1,0 +1,14 @@
+- ## 实质
+- 将开发阶段无计划无目的的手工测试变化为有目的有计划的自动化测试
+	- 验证性测试
+		- 测试应用(通过运行及控制台输出确认应用的可用性)
+		- 跑一下(在受控环境中运行功能)
+	- 定位性测试
+		- Debug(定位错误发生的位置)
+- 清晰把握开发阶段的脉络，为开发阶段树立并完成一个 milestone
+- ## 原则
+- 没有失败的测试就不实现代码
+- 只做刚好通过测试的代码
+- 遵循红-绿-蓝的循环
+- ![2022_03_31_image.png](https://cdn.logseq.com/%2F126a536d-fd3d-4922-b4f1-32dba26d446efa7989f9-e9a5-42f7-8e0a-85974d0728d22022_03_31_image.png?Expires=4802335349&Signature=W7E073KLZmXPSHNLK7WuMh4SNq0vX4ilgje6M~6zuP2zSPZGcn7zqkWBR8vVm92ijNmrnPsGc3kBmkYCOzxm1nQgW1diOM0uwFe5aFAc78VVKkcVfwSOuFJFrhtvl0t1ZoBhoKPL4pG0b9Vpn7yG2rgILT4ANGHOrw9GGBVH6TBGN9RKFCpCbs-BbCtH-y6880OwEIuOQwNPel0cF6~XfDjJB5KNVc4vPLkvqd5PFKej~OBJeA3qFOJNuiByZGp9VUaxJ5vilwd9sTvoMjX-2590ZWcHPRarW5mRzA8PfW2TUkNeC3tNMF9F6P4MjiyipkCeIFODZMC5WEs4OXXBrQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 320, :width 363}
+-

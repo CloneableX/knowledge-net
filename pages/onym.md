@@ -1,0 +1,6 @@
+- name => anem => onym
+-
+- an**onym**ous 匿名的
+- syn**onym**ous 同义词的
+- acr**onym** 首字母缩写
+-

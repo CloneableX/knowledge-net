@@ -1,0 +1,10 @@
+- people => puple => puble => publ
+-
+- **publ**ic 公众的 公开的
+- **publ**ish 出版
+- **publ**ication 出版物
+- **publ**icize 发表
+- **publ**icity 宣传 名声
+- re**publ**ic 共和国
+- **pub**(public house) 酒吧
+-

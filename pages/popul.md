@@ -1,0 +1,9 @@
+- people => pople => popule => popul/pop
+-
+- **pop** music 流行音乐
+- **pop**ular 流行的 受欢迎的
+- **popul**ation 人口
+- **popul**arity 名气
+- **popul**ace 全体居民 民众
+- **popul**ate 移民 占据
+- **popul**arize 宣传 推广
